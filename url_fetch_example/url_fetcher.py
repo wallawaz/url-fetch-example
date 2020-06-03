@@ -81,6 +81,3 @@ class UrlFetcher:
         print(f"total time: {total_time}")
         return total_time
 
-
-if __name__ == "__main__":
-    main()
