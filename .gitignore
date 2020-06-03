@@ -1,0 +1,5 @@
+/.coverage
+/.python-version
+/docs/_build/
+/src/*.egg-info/
+__pycache__/
